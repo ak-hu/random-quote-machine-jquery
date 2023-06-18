@@ -2,6 +2,11 @@
 
 The Random Quote Machine jQuery is a simple web application that generates random quotes using jQuery. It provides users with an interactive experience to discover and share inspiring quotes.
 
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot_1.png)
+*Caption for Screenshot*
+
 ## Features
 
 - Random Quote Generation: The application generates random quotes with the click of a button, offering users a fresh quote each time.
