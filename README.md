@@ -1,4 +1,4 @@
-# Random Quote Machine jQuery
+# Random Quote Machine
 
 The Random Quote Machine jQuery is a simple web application that generates random quotes using jQuery. It provides users with an interactive experience to discover and share inspiring quotes.
 
